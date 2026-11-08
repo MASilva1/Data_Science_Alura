@@ -25,6 +25,6 @@ Mi objetivo es combinar análisis de datos y automatización con la gestión ope
 ### Otros proyectos
 
 - [Sistema de reservas Sala 13 — desarrollo e integración](https://github.com/MASilva1/sala13-booking-system)
-- [Gestión inteligente de solicitudes — automatización con IA](https://github.com/MASilva1/mi-primer-proyecto/tree/main/portfolio/idei-gestion-solicitudes-ia)
+- [Gestión inteligente de solicitudes — automatización con IA](https://github.com/MASilva1/smartdesk-ai-automation)
 
 [LinkedIn](https://www.linkedin.com/in/matysilv/) · [Portfolio principal](https://github.com/MASilva1/mi-primer-proyecto)
